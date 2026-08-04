@@ -45,7 +45,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
+<p> <strong> Can Do this using HAshset Find Max and min add all elements in set then use a for loop with range of max and min if set not contains add value into  answer </strong></p>
 <ul>
 	<li><code>2 &lt;= nums.length &lt;= 100</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
