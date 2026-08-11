@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
