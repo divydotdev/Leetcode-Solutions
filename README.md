@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3904-smallest-stable-index-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
