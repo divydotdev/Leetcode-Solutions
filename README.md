@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [1922-count-good-numbers](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
