@@ -1,13 +1,14 @@
-/*
 
 class Solution {
+         private static final int UNVISITED = Integer.MIN_VALUE;
     public int solve(int i, int j, List<List<Integer>> triangle, int n, int[][] dp) {
-        if (dp[i][j] != -1)
+        if (dp[i][j] !=  UNVISITED)
             return dp[i][j];
         if (i == n - 1) return triangle.get(i).get(j);
 
-        int down = triangle.get(i).get(j) + solve(i + 1, j, triangle, n, dp);
-        int diag = triangle.get(i).get(j) + solve(i + 1, j + 1, triangle, n, dp);
+        int currentVal = triangle.get(i).get(j);
+        int down = currentVal + solve(i + 1, j, triangle, n, dp);
+        int diag = currentVal + solve(i + 1, j + 1, triangle, n, dp);
 
         // Store and return min path sum
         return dp[i][j] = Math.min(down, diag);
@@ -17,13 +18,13 @@ class Solution {
         int n = triangle.size();
         int[][] dp = new int[n][n];
         for (int[] row : dp)
-            Arrays.fill(row, -1);
+            Arrays.fill(row, UNVISITED);
         return solve(0, 0, triangle, n, dp);
         
     }
 }
 
-*/
+/*
 
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
@@ -50,3 +51,5 @@ class Solution {
         return dp[0];
 
     }}
+
+    */
