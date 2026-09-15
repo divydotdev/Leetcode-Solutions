@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 ## Divide and Conquer
@@ -161,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
