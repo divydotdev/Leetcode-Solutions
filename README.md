@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -172,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
