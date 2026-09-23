@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Combinatorics
 |  |
