@@ -184,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
