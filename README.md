@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2601-prime-subtraction-operation](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2601-prime-subtraction-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3525-find-x-value-of-array-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/divydotdev/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
@@ -118,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/divydotdev/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/divydotdev/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/divydotdev/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
